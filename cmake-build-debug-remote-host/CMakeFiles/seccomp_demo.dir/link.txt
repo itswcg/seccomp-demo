@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/seccomp_demo.dir/main.cpp.o  -o seccomp_demo  -lseccomp 
